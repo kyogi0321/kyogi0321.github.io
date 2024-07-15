@@ -26,7 +26,7 @@ name: "교기" # 블로그 닉네임 설정
 description: "교기의 깃허브블로그 입니다!" # 블로그 설명
 url: "https://kyogi0321.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "github-account/github-account.github.io" # GitHub Repo 이름
+repository: "/kyogi0321/kyogi0321.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
