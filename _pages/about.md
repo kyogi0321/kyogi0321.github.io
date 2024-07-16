@@ -1,8 +1,8 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hi everyone! I'm kyogi 👋🏻"
 permalink: /about/
 layout: single
-comments: false
+comments: I want to be someone who changes the world.
 ---
 
 본인 소개 여기에 입력
